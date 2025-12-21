@@ -20,6 +20,7 @@
     "cv-forge": "^1.0.3",
     "diagram-master": "^1.0.1",
     "ez-mcp": "^1.0.4",
-    "gitignr": "^1.1.1"
+    "gitignr": "^1.1.1",
+    "ms-rule-engine": "^1.0.0"
   }
 }
