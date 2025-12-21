@@ -1,0 +1,25 @@
+{
+  "name": "packagers",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gchandaniw/packager.git"
+  },
+  "author": "C B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gchandaniw/packager/issues"
+  },
+  "homepage": "https://github.com/gchandaniw/packager#readme",
+  "dependencies": {
+    "cv-forge": "^1.0.3",
+    "diagram-master": "^1.0.1",
+    "ez-mcp": "^1.0.4",
+    "gitignr": "^1.1.1"
+  }
+}
