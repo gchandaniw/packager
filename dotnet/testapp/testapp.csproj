@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="dotnet-essential" Version="7.0.10" />
+    <PackageReference Include="dotnet-essential-aspnet-core" Version="8.0.2" />
+ 
+    <PackageReference Include="dotnet-essential-az-function" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>
